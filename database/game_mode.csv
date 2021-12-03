@@ -1,0 +1,11 @@
+_key,id,name,localized_name,balanced
+0,0,lobby_type_normal,Normal Mode,TRUE
+1,1,lobby_type_practice,Practice Mode,TRUE
+2,2,lobby_type_tournament,Tournament Mode,TRUE
+3,3,lobby_type_tutorial,Tutorial Mode,
+4,4,lobby_type_coop_bots,Coop Party,
+5,5,lobby_type_ranked_team_mm,Ranked Party,TRUE
+6,6,lobby_type_ranked_solo_mm,Ranked Solo,TRUE
+7,7,lobby_type_ranked,Ranked mode,TRUE
+8,8,lobby_type_1v1_mid,1v1 Mode,
+9,9,lobby_type_battle_cup,Battle Cup,TRUE
